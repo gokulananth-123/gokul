@@ -1,2 +1,5 @@
 # gokul
-how are you
+Name:Gokul Ananth
+Age:18
+college:SKCET
+
